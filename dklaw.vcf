@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:DK Law
+ORG:DK Law - Injury, Accident, and More
+TEL;TYPE=WORK,VOICE:800-614-8810
+EMAIL;TYPE=WORK:mycase@dklaw.com
+ADR;TYPE=WORK:;;611 Anton Blvd Ste 1000;Costa Mesa;CA;92626-7005;USA
+URL:https://dklaw.com/
+END:VCARD
