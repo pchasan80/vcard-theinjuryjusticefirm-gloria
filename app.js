@@ -9,7 +9,7 @@ function copyText() {
 
 // 1. Download Vcard
 function downloadVcard() {
-  window.location.href = "dklaw.vcf"; // <-- Replace with your vCard file URL
+  window.location.href = "theinjuryjusticefirm.vcf"; // <-- Replace with your vCard file URL
 }
 
 // 2. Send to Email (opens mail)
