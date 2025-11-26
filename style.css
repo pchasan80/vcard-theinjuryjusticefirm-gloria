@@ -16,14 +16,14 @@ main{
     min-height: 100vh;
 }
 .top-section {
-    background: #000;
+    background: #002342;
     padding: 15px 0;
     text-align: center;
     color: #fff;
 }
 .button-group{
     border-top: 1px solid #f8f9fa4d  ;
-    background-color: #000;
+    background-color: #002342;
 }
 .button-group a{
     font-size: 14px;
@@ -35,6 +35,10 @@ main{
 }
 .button-group a:last-child{
     border: 0;
+}
+.button-group a:hover {
+    color: #fff;
+    border-color: #f8f9fa4d;
 }
 .icon-circle {
     width: 70px;
@@ -54,13 +58,13 @@ hr {
     margin: 5px 0;
 }
 .social-icons i {
-    font-size: 20px;
+    font-size: 30px;
     margin: 6px;
     cursor: pointer;
 }
 
 .download-btn {
-    background: #000;
+    background: #002342;
     color: #fff;
     width: 100%;
     padding: 12px;
